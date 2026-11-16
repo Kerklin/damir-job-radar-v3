@@ -1,4 +1,6 @@
-# Damir Job Radar v3  https://damir-job-radar-v3.streamlit.app/
+# Damir Job Radar v3  
+
+https://damir-job-radar-v3.streamlit.app/
 
 Automatic vacancy search for construction, infrastructure, WASH, procurement, project management and heritage roles, with explainable 0–100 fit scoring against Damir Hadžić's profile.
 
